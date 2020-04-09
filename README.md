@@ -15,11 +15,11 @@ mvn clean install
 
 To cite this repository in publications:
 
-@misc{admm4j,
-  author = {Denysiuk, Roman},
-  title = {ADMM4J: Alternating Direction Method of Multipliers for Java},
-  journal = {GitHub repository},
-  year = {2020},
-  publisher = {GitHub},  
-  howpublished = {\url{https://github.com/romaden/admm4j}},
-}
+      @misc{admm4j,
+        author = {Denysiuk, Roman},
+        title = {ADMM4J: Alternating Direction Method of Multipliers for Java},
+        journal = {GitHub repository},
+        year = {2020},
+        publisher = {GitHub},  
+        howpublished = {\url{https://github.com/romaden/admm4j}},
+      }
