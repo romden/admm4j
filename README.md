@@ -21,5 +21,5 @@ To cite this repository in publications:
         journal = {GitHub repository},
         year = {2020},
         publisher = {GitHub},  
-        howpublished = {\url{https://github.com/romaden/admm4j}},
+        howpublished = {\url{https://github.com/romden/admm4j}},
       }
