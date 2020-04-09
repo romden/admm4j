@@ -1,0 +1,30 @@
+{
+	"nodesI": [{
+		"name": "crossentropy",
+		"objective": 1.5051438333436975,
+		"cv": 0.0,
+		"variables": {
+			"regularization": [-0.1268249608153626, 4.970155461703236, 5.024166762173793]
+		},
+		"multipliers": {
+			"regularization": [0.0, 0.19999999999999996, 0.19999999999999996]
+		},
+		"internal": null
+	}],
+	"nodesII": [{
+		"name": "regularization",
+		"objective": 1.9988644447754058,
+		"cv": 0.0,
+		"variables": {
+			"crossentropy": [-0.1268249608153626, 4.970155461703236, 5.024166762173793]
+		},
+		"multipliers": {
+			"crossentropy": [0.0, 0.19999999999999996, 0.19999999999999996]
+		},
+		"internal": null
+	}],
+	"stats": {
+		"runTime": 217,
+		"numIterations": 94
+	}
+}
